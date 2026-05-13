@@ -1,6 +1,6 @@
 # AI Authorship Notice
 
-> Turkce aciklama icin asagiya bakin / Scroll down for Turkish.
+> Türkçe açıklama için aşağıya bakın / Scroll down for Turkish.
 
 A simple, lightweight template for disclosing AI involvement in any
 creative or technical work — code, documentation, content, design.
@@ -93,96 +93,96 @@ Open an issue if you have suggestions. Translations welcome.
 
 ---
 
-# AI Yazarlik Beyani
+# AI Yazarlık Beyanı
 
-Herhangi bir yaratici veya teknik calismada (kod, dokumantasyon,
-icerik, tasarim) AI kullaniminin acikca bildirilmesi icin basit ve
-hafif bir sablon.
+Herhangi bir yaratıcı veya teknik çalışmada (kod, dokümantasyon,
+içerik, tasarım) AI kullanımının açıkça bildirilmesi için basit ve
+hafif bir şablon.
 
-**Lisans degildir. Seffaflik beyanidir.**
+**Lisans değildir. Şeffaflık beyanıdır.**
 
 ## Neden?
 
-AI araclari artik birogumuzun calisma surecinin parcasi. Kod, yazi,
-gorsel, ceviri — buyuk bir kismi insan-AI isbirligi. Ama bunu acikca
-soylemek icin ortak ve basit bir yol yok.
+AI araçları artık birçoğumuzun çalışma sürecinin parçası. Kod, yazı,
+görsel, çeviri — büyük bir kısmı insan-AI iş birliği. Ama bunu açıkça
+söylemek için ortak ve basit bir yol yok.
 
-Bu proje, herhangi bir projeye eklenebilecek minimal bir sablon
+Bu proje, herhangi bir projeye eklenebilecek minimal bir şablon
 sunuyor:
 
-1. Hangi AI araclarini kullandiginizi
-2. Sizin (insanin) hangi kararlari verdiginizi ve yonlendirmelerini
-   yaptiginizi
-3. Bu beyanin projenizin gercek lisansini etkilemedigini
+1. Hangi AI araçlarını kullandığınızı
+2. Sizin (insanın) hangi kararları verdiğinizi ve yönlendirmeleri
+   yaptığınızı
+3. Bu beyanın projenizin gerçek lisansını etkilemediğini
 
-Bu kadar. Uc bolum. Duz metin. Hukuki yukumluluk yok, kullanicilara
-kisitlama yok, suslu bir cerceve yok.
+Bu kadar. Üç bölüm. Düz metin. Hukuki yükümlülük yok, kullanıcılara
+kısıtlama yok, süslü bir çerçeve yok.
 
-## Bu sablon NEDIR
+## Bu şablon NEDİR
 
-- **Norm olusturma denemesi.** Yeterince insan kullanirsa, AI
-  beyani is teslim etmenin sira disi bir parcasi olur.
-- **Dusunme araci.** Doldururken kendine sormak zorunda kalirsin:
-  "Ben ne yaptim, AI ne yapti?"
-- **Hazir kullanilabilir parca.** Kopyala, 4 alani doldur, bitti.
+- **Norm oluşturma denemesi.** Yeterince insan kullanırsa, AI
+  beyanı iş teslim etmenin sıra dışı olmayan bir parçası olur.
+- **Düşünme aracı.** Doldururken kendine sormak zorunda kalırsın:
+  "Ben ne yaptım, AI ne yaptı?"
+- **Hazır kullanılabilir parça.** Kopyala, 4 alanı doldur, bitti.
 
-## Bu sablon NE DEGILDIR
+## Bu şablon NE DEĞİLDİR
 
-- **Lisans degildir.** MIT, GPL, Apache, CC veya kullandiginiz baska
-  bir lisansin yerine gecmez.
-- **Hukuken baglayici degildir.** Beyan, sozlesme degildir.
-- **Garanti degildir.** Birisi calismanizi yanlis atfetmeye
-  kararliysa sizi korumaz. Bunun icin surum kontrol gecmisi ve
-  kamuya acik tarih damgalari daha onemlidir.
-- **Zorunlu degildir.** Degerlerinize uyuyorsa kullanin, uymuyorsa
-  atlayin.
+- **Lisans değildir.** MIT, GPL, Apache, CC veya kullandığınız başka
+  bir lisansın yerine geçmez.
+- **Hukuken bağlayıcı değildir.** Beyan, sözleşme değildir.
+- **Garanti değildir.** Birisi çalışmanızı yanlış atfetmeye
+  kararlıysa sizi korumaz. Bunun için sürüm kontrol geçmişi ve
+  kamuya açık tarih damgaları daha önemlidir.
+- **Zorunlu değildir.** Değerlerinize uyuyorsa kullanın, uymuyorsa
+  atlayın.
 
-## Bu sablonu kullanmali miyim?
+## Bu şablonu kullanmalı mıyım?
 
-Bu beyan **seffaflik** icindir. Bazi durumlarda dogru tercih, bazi
-durumlarda gercek riskler dogurabilir. Kullanmadan once asagidaki
+Bu beyan **şeffaflık** içindir. Bazı durumlarda doğru tercih, bazı
+durumlarda gerçek riskler doğurabilir. Kullanmadan önce aşağıdaki
 listeyi kontrol edin.
 
-**KULLANIN, eger:**
-- Projeniz acik kaynak
-- Kendi kisisel / hobi projeniz
-- Musteriniz veya isvereniniz AI kullanimindan haberdar ve onaylamis
-- Acigi kisitlayan NDA veya sozlesmeniz yok
+**KULLANIN, eğer:**
+- Projeniz açık kaynak
+- Kendi kişisel / hobi projeniz
+- Müşteriniz veya işvereniniz AI kullanımından haberdar ve onaylamış
+- Açığı kısıtlayan NDA veya sözleşmeniz yok
 
-**KULLANMAYIN, eger:**
-- NDA imzaladiniz (AI kullanimi NDA kapsamina girebilir)
-- Sozlesmenizde "AI kullanilmayacak" maddesi var
-- Proje kapali kaynakli ticari is ve musteri haberdar degil
-- Isi premium / sadece-insan-emegi olarak pazarliyorsunuz
+**KULLANMAYIN, eğer:**
+- NDA imzaladınız (AI kullanımı NDA kapsamına girebilir)
+- Sözleşmenizde "AI kullanılmayacak" maddesi var
+- Proje kapalı kaynaklı ticari iş ve müşteri haberdar değil
+- İşi premium / sadece-insan-emeği olarak pazarlıyorsunuz
 
-**EMIN DEGILSENIZ:**
-- Once musterinize veya isvereninize sorun
-- Sozlesmenizi dikkatlice okuyun
-- Onemli projelerde avukata danisin
+**EMİN DEĞİLSENİZ:**
+- Önce müşterinize veya işvereninize sorun
+- Sözleşmenizi dikkatlice okuyun
+- Önemli projelerde avukata danışın
 
-Bu sablon size "yapin" veya "yapmayin" demez. Bir aractir — uygun
-oldugunda kullanin, zarar verecekse atlayin. Bu kararin sorumlulugu
+Bu şablon size "yapın" veya "yapmayın" demez. Bir araçtır — uygun
+olduğunda kullanın, zarar verecekse atlayın. Bu kararın sorumluluğu
 sizdedir.
 
-## Nasil kullanilir
+## Nasıl kullanılır
 
-1. `templates/MINI_TR.md` (Turkce) veya `templates/MINI_EN.md`
-   (Ingilizce) dosyasini proje koklerine kopyalayin.
+1. `templates/MINI_TR.md` (Türkçe) veya `templates/MINI_EN.md`
+   (İngilizce) dosyasını proje köklerine kopyalayın.
 2. `AI_NOTICE.md` (veya projenize uygun bir ad) olarak yeniden
-   adlandirin.
-3. **En ustteki uyari kutusunu silin** (o sadece sablonu dolduran
-   kisi icindir, yayinlanan dosyada yer almamali).
-4. Dort yer tutucu alani doldurun.
-5. Istege bagli olarak README veya Hakkinda sayfanizdan link verin.
+   adlandırın.
+3. **En üstteki uyarı kutusunu silin** (o sadece şablonu dolduran
+   kişi içindir, yayınlanan dosyada yer almamalı).
+4. Dört yer tutucu alanı doldurun.
+5. İsteğe bağlı olarak README veya Hakkında sayfanızdan link verin.
 
-## Sablonun lisansi
+## Şablonun lisansı
 
-**CC0 1.0 Universal (Kamu Mali)** — bkz. `LICENSE`.
+**CC0 1.0 Universal (Kamu Malı)** — bkz. `LICENSE`.
 
-Sablonu istediginiz gibi kopyalayabilir, degistirebilir, yeniden
-dagitabilir ve kullanabilirsiniz. Atif zorunlu degildir (ama
+Şablonu istediğiniz gibi kopyalayabilir, değiştirebilir, yeniden
+dağıtabilir ve kullanabilirsiniz. Atıf zorunlu değildir (ama
 takdir edilir).
 
-## Katki
+## Katkı
 
-Onerileriniz icin issue acin. Ceviriler memnuniyetle karsilanir.
+Önerileriniz için issue açın. Çeviriler memnuniyetle karşılanır.

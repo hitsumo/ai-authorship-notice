@@ -1,94 +1,95 @@
-# AI ile yazdim. Ama bunu nasil soylerim?
+# AI ile yazdım. Ama bunu nasıl söylerim?
 
-*Kucuk bir sablon, buyuk olmayan bir fikir.*
+*Küçük bir şablon, büyük olmayan bir fikir.*
 
 ---
 
-Son birkac yildir kod yaziyorum, ama yalniz degilim. AI araclari —
-Claude, ChatGPT, Abacus AI — surekli isin icinde. Bir sey isteyince
-yaziyorlar, hata bulunca duzeltmek icin geri donuyoruz. Yazi
-bittiginde elimde calisir bir sey oluyor. Ama soyle bir soru kaliyor
-geriye: **kim yazdi?**
+Son birkaç yıldır kod yazıyorum, ama yalnız değilim. AI araçları —
+Claude, ChatGPT, Abacus AI — sürekli işin içinde. Bir şey isteyince
+yazıyorlar, hata bulunca düzeltmek için geri dönüyoruz. Yazı
+bittiğinde elimde çalışır bir şey oluyor. Ama şöyle bir soru kalıyor
+geriye: **kim yazdı?**
 
-Ben mi? Onlar mi? Ikimiz mi?
+Ben mi? Onlar mı? İkimiz mi?
 
-Bu sorunun saglikli bir cevabi yok aslinda. Lisans dosyasinda "AI
-kullandim" diye yazilan bir alan yok. README'lerde "tesekkurler"
-bolumune AI'i koymak garip geliyor. About sayfasina "Abacus AI ile
-gelistirildi" yazmak yetiyor mu, bilmiyorum. Yazilim dunyasinin
-bunun icin bir aliskanligi henuz yok.
+Bu sorunun sağlıklı bir cevabı yok aslında. Lisans dosyasında "AI
+kullandım" diye yazılan bir alan yok. README'lerde "teşekkürler"
+bölümüne AI'ı koymak garip geliyor. About sayfasına "Abacus AI ile
+geliştirildi" yazmak yetiyor mu, bilmiyorum. Yazılım dünyasının
+bunun için bir alışkanlığı henüz yok.
 
-## Niye bir sey yaptim
+## Niye bir şey yaptım
 
-Cunku eksik geliyordu. Kendi projemi yazarken durdum: "Bu kodu ben
-mi yazdim?" Hayir, AI yazdi. "Peki ben ne yaptim?" Mimariye karar
-verdim, neyi nasil isteyecegimi dusundum, yanlis seyleri reddettim,
-test ettim, entegre ettim. Bu **bir sey**, ama "kod yazdim"
-demekten farkli bir sey.
+Çünkü eksik geliyordu. Kendi projemi yazarken durdum: "Bu kodu ben
+mi yazdım?" Hayır, AI yazdı. "Peki ben ne yaptım?" Mimariye karar
+verdim, neyi nasıl isteyeceğimi düşündüm, yanlış şeyleri reddettim,
+test ettim, entegre ettim. Bu **bir şey**, ama "kod yazdım"
+demekten farklı bir şey.
 
-Bu farkin bir adi olmasi gerektigini dusundum. Olmayinca, bir
-sablon yaptim. Adi: **ai-authorship-notice**.
+Bu farkın bir adı olması gerektiğini düşündüm. Olmayınca, bir
+şablon yaptım. Adı: **ai-authorship-notice**.
 
-## Sablon ne yapiyor
+## Şablon ne yapıyor
 
-Uc maddeden ibaret kucuk bir markdown dosyasi:
+Üç maddeden ibaret küçük bir markdown dosyası:
 
-1. **Hangi AI araclarini kullandim**
-2. **Ben hangi kararlari verdim**
-3. **Bu beyan benim lisansimi etkilemez**
+1. **Hangi AI araçlarını kullandım**
+2. **Ben hangi kararları verdim**
+3. **Bu beyan benim lisansımı etkilemez**
 
-Hepsi bu. Hukuki bir metin degil, sozlesme degil. Sadece bir
-**beyan** — projenin nasil uretildigine dair durust bir not. CC0
-lisansli, yani herkes alip degistirip kendi projesinde
+Hepsi bu. Hukuki bir metin değil, sözleşme değil. Sadece bir
+**beyan** — projenin nasıl üretildiğine dair dürüst bir not. CC0
+lisanslı, yani herkes alıp değiştirip kendi projesinde
 kullanabilir.
 
-GitHub'da: github.com/[KULLANICI-ADI]/ai-authorship-notice
+GitHub'da: github.com/hitsumo/ai-authorship-notice
 
-## Sablon ne yapamaz
+## Şablon ne yapamaz
 
-Cok seyi yapamaz, durust olalim:
+Çok şeyi yapamaz, dürüst olalım:
 
-- **Birisi kodumu calarsa korumaz.** Onun icin git gecmisi ve
-  tarihli yayinlar var.
-- **Hukuki yukumluluk getirmez.** Beyan, sozlesme degildir.
-- **Hicbir tartismayi kapatmaz.** AI ile uretilen seyin "telifi
-  kimde" sorusu hala acik bir hukuki konu.
-- **Herkesin kullanmasi gereken bir sey degil.** Kapali kaynak ticari
-  isler, NDA altindaki projeler, "AI kullanilmayacak" sozlesmeleri
-  varsa **kullanilmamali**.
+- **Birisi kodumu çalarsa korumaz.** Onun için git geçmişi ve
+  tarihli yayınlar var.
+- **Hukuki yükümlülük getirmez.** Beyan, sözleşme değildir.
+- **Hiçbir tartışmayı kapatmaz.** AI ile üretilen şeyin "telifi
+  kimde" sorusu hâlâ açık bir hukuki konu.
+- **Herkesin kullanması gereken bir şey değil.** Kapalı kaynak ticari
+  işler, NDA altındaki projeler, "AI kullanılmayacak" sözleşmeleri
+  varsa **kullanılmamalı**.
 
-## Sablon ne yapabilir
+## Şablon ne yapabilir
 
-Belki bir kac sey:
+Belki birkaç şey:
 
-- **Norm baslatir.** Yeterince insan kullanirsa, "AI beyani" surasi
-  burasi olmayan bir aliskanlik haline gelebilir. MIT lisansi da
-  oyle yayildi — kimse zorlamadi, yaygin olunca standart oldu.
-- **Dusunmeye zorlar.** Sablonu doldururken kendine sormak zorunda
-  kaliyorsun: "Ben gercekten ne yaptim?" Bu soru iyi bir soru.
-- **Karsi tarafa farkindalik verir.** Senin kodunla calisan biri
-  goruyor: bu kodun bir kismi AI ile uretildi, ben de degisiklik
-  yaparken ayni seyi dusunmeliyim.
+- **Norm başlatır.** Yeterince insan kullanırsa, "AI beyanı" sıra
+  dışı olmayan bir alışkanlık haline gelebilir. Yaygın lisanslar
+  da böyle bir süreçten geçti — kimse zorlamadı, yaygın olunca
+  standart oldu.
+- **Düşünmeye zorlar.** Şablonu doldururken kendine sormak zorunda
+  kalıyorsun: "Ben gerçekten ne yaptım?" Bu soru iyi bir soru.
+- **Karşı tarafa farkındalık verir.** Senin kodunla çalışan biri
+  görüyor: bu kodun bir kısmı AI ile üretildi, ben de değişiklik
+  yaparken aynı şeyi düşünmeliyim.
 
-## Belki hicbir sey olmaz
+## Belki hiçbir şey olmaz
 
-Belki bu sablon raflarda kalir. Belki birkac proje kullanir, sonra
+Belki bu şablon raflarda kalır. Belki birkaç proje kullanır, sonra
 unutulur. Belki kimse umursamaz.
 
-Olsun. Bilgisayarima geri don, bir sey kaybetmedim. Ama denemek,
+Olsun. Bilgisayarıma geri dönerim, bir şey kaybetmedim. Ama denemek,
 denememekten daha iyi geldi.
 
-Eger sen de AI ile calisiyorsan ve "bunu nasil soylerim" diye
-dusunduysen, sablonu bulursun. Kullanirsin, kullanmazsin, baska
-bir sey yaparsin. Karar senin.
+Eğer sen de AI ile çalışıyorsan ve "bunu nasıl söylerim" diye
+düşündüysen, şablonu bulursun. Kullanırsın, kullanmazsın, başka
+bir şey yaparsın. Karar senin.
 
-Tek isteyecegim sey: **bunu konusalim**. AI ile insan emegini ayirt
-etmenin saglikli bir yolu yok henuz, ve bu yolun bulunmasi tek bir
-kisinin isi degil.
+Tek isteyeceğim şey: **bunu konuşalım**. AI ile insan emeğini ayırt
+etmenin sağlıklı bir yolu yok henüz, ve bu yolun bulunması tek bir
+kişinin işi değil.
 
 ---
 
-**Sablon:** github.com/[KULLANICI-ADI]/ai-authorship-notice
-**Lisans:** CC0 (kamu mali, atif zorunlu degil)
+**Şablon:** github.com/hitsumo/ai-authorship-notice
+**Lisans:** CC0 (kamu malı, atıf zorunlu değil)
 **Yazar:** [AD SOYAD]
 **Tarih:** [YYYY-AA-GG]
