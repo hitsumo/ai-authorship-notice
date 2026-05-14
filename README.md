@@ -72,7 +72,7 @@ responsibility for that judgment is yours.
 
 ## How to use
 
-1. Copy `templates/MINI_EN.md` (English) or `templates/MINI_TR.md`
+1. Copy `templates/TEMPLATE_EN.md` (English) or `templates/TEMPLATE_TR.md`
    (Turkish) into your project root.
 2. Rename to `AI_NOTICE.md` (or whatever fits your project).
 3. **Delete the warning box at the top** (it is for the person
@@ -166,7 +166,7 @@ sizdedir.
 
 ## Nasıl kullanılır
 
-1. `templates/MINI_TR.md` (Türkçe) veya `templates/MINI_EN.md`
+1. `templates/TEMPLATE_TR.md` (Türkçe) veya `templates/TEMPLATE_EN.md`
    (İngilizce) dosyasını proje köklerine kopyalayın.
 2. `AI_NOTICE.md` (veya projenize uygun bir ad) olarak yeniden
    adlandırın.
