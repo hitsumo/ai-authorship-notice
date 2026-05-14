@@ -91,5 +91,5 @@ kişinin işi değil.
 
 **Şablon:** github.com/hitsumo/ai-authorship-notice
 **Lisans:** CC0 (kamu malı, atıf zorunlu değil)
-**Yazar:** [AD SOYAD]
-**Tarih:** [YYYY-AA-GG]
+**Yazar:** Okan Sümer
+**Tarih:** 2026-05-12

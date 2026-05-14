@@ -40,4 +40,4 @@ In case of any conflict, the project license takes precedence.
 
 ---
 
-*Template: github.com/[USER]/ai-authorship-notice (CC0)*
+*Template: github.com/hitsumo/ai-authorship-notice (CC0)*

@@ -44,7 +44,7 @@ That's it. Not a legal document, not a contract. Just a
 licensed, so anyone can take it, modify it, use it in their own
 project.
 
-On GitHub: github.com/[USERNAME]/ai-authorship-notice
+On GitHub: github.com/hitsumo/ai-authorship-notice
 
 ## What the template cannot do
 
@@ -63,8 +63,9 @@ A lot, honestly:
 Maybe a few things:
 
 - **Start a norm.** If enough people use it, "AI disclosure" might
-  become a regular habit. The MIT license spread the same way — no
-  one forced it; it just became standard once it was common.
+  become a regular habit. Widely-used licenses went through a
+  similar phase — no one forced them; they just became standard
+  once they were common.
 - **Force you to think.** Filling in the template makes you ask:
   "What did I actually do?" That is a good question.
 - **Inform whoever uses your code.** Someone working on top of your
@@ -89,7 +90,7 @@ way is not one person's job.
 
 ---
 
-**Template:** github.com/[USERNAME]/ai-authorship-notice
+**Template:** github.com/hitsumo/ai-authorship-notice
 **License:** CC0 (public domain, no attribution required)
-**Author:** [FULL NAME]
-**Date:** [YYYY-MM-DD]
+**Author:** Okan Sümer
+**Date:** 2026-05-12
